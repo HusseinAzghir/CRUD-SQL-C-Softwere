@@ -1,0 +1,46 @@
+C:\Users\husai\OneDrive\سطح المكتب\C#\Projekt_eins\Projekt_eins\bin\Debug\Projekt_eins.exe.config
+C:\Users\husai\OneDrive\سطح المكتب\C#\Projekt_eins\Projekt_eins\bin\Debug\Projekt_eins.exe
+C:\Users\husai\OneDrive\سطح المكتب\C#\Projekt_eins\Projekt_eins\bin\Debug\Projekt_eins.pdb
+C:\Users\husai\OneDrive\سطح المكتب\C#\Projekt_eins\Projekt_eins\obj\Debug\Projekt_eins.csproj.AssemblyReference.cache
+C:\Users\husai\OneDrive\سطح المكتب\C#\Projekt_eins\Projekt_eins\obj\Debug\Projekt_eins.csproj.CoreCompileInputs.cache
+C:\Users\husai\OneDrive\سطح المكتب\C#\Projekt_eins\Projekt_eins\obj\Debug\Projekt_eins.exe
+C:\Users\husai\OneDrive\سطح المكتب\C#\Projekt_eins\Projekt_eins\obj\Debug\Projekt_eins.pdb
+C:\Users\husai\OneDrive\سطح المكتب\C#\Projekt_eins\Projekt_eins\bin\Debug\MySqlConnector.dll
+C:\Users\husai\OneDrive\سطح المكتب\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Buffers.dll
+C:\Users\husai\OneDrive\سطح المكتب\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\husai\OneDrive\سطح المكتب\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Memory.dll
+C:\Users\husai\OneDrive\سطح المكتب\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\husai\OneDrive\سطح المكتب\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\husai\OneDrive\سطح المكتب\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\husai\OneDrive\سطح المكتب\C#\Projekt_eins\Projekt_eins\bin\Debug\MySqlConnector.xml
+C:\Users\husai\OneDrive\سطح المكتب\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Buffers.xml
+C:\Users\husai\OneDrive\سطح المكتب\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\husai\OneDrive\سطح المكتب\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Memory.xml
+C:\Users\husai\OneDrive\سطح المكتب\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\husai\OneDrive\سطح المكتب\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\husai\OneDrive\سطح المكتب\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\husai\OneDrive\سطح المكتب\C#\Projekt_eins\Projekt_eins\obj\Debug\Projekt_eins.csproj.CopyComplete
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\bin\Debug\Projekt_eins.exe.config
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\bin\Debug\Projekt_eins.exe
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\bin\Debug\Projekt_eins.pdb
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\bin\Debug\MySqlConnector.dll
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Buffers.dll
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Memory.dll
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\bin\Debug\MySqlConnector.xml
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Buffers.xml
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Memory.xml
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\obj\Debug\Projekt_eins.csproj.AssemblyReference.cache
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\obj\Debug\Projekt_eins.csproj.CoreCompileInputs.cache
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\obj\Debug\Projekt_eins.csproj.CopyComplete
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\obj\Debug\Projekt_eins.exe
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\obj\Debug\Projekt_eins.pdb
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\husai\OneDrive\Desktop\C#\Projekt_eins\Projekt_eins\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
